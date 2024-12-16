@@ -13,6 +13,9 @@ import java.util.Optional;
 public class CompanyDao implements Dao<Integer, Company> {
 
     // новая строка
+    // 2 новая строка
+
+
 
     private final static CompanyDao instance = new CompanyDao();
 
