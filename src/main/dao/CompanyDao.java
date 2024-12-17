@@ -14,6 +14,8 @@ public class CompanyDao implements Dao<Integer, Company> {
 
     // новая строка
     // 2 новая строка
+    //  433
+    //223
 
 
 
